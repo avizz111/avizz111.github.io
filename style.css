@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(#000,#0c192c);
+    color:#fff;
+    font-family: cursive;
+}
+.division{
+    padding: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    border: #fff 2px solid;
+    background: rgba(0, 0, 0, 0.473);
+    text-align: center;
+}
+p{
+    font-size: 15px;text-align: left;
+}
+mark{
+    background: #0000;
+    color: aqua;
+}
